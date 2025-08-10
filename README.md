@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wei Cai</h1>
+<h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Wei Cai</h1>
 <h3 align="center">I am a Data Scientist & Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weicai812&label=Profile%20views&color=0e75b6&style=flat" alt="weicai812" /> </p>
