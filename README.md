@@ -1,7 +1,8 @@
-<h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Wei Cai</h1>
-<h3 align="center">I am a Data Scientist & Software Developer.</h3>
+<h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi , I'm Wei Cai</h1>
+<h3 align="center">Data Scientist | Software Developer | UIUX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weicai812&label=Profile%20views&color=0e75b6&style=flat" alt="weicai812" /> </p>
+---
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 - 🌱 I’m currently learning **Mobile Development (Flutter and React Native).**
 
