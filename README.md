@@ -1,4 +1,4 @@
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=571093&width=465&height=80&lines=Hi%2C+I%E2%80%99m+Wei+Cai)](https://git.io/typing-svg)
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=571093&width=435&height=50&lines=Hi%2C+I%E2%80%99m+Wei+Cai)](https://git.io/typing-svg)
 <h3 align="center">Data Scientist | Software Developer | UIUX Designer</h3>
 
 ---
